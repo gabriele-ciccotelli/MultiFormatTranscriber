@@ -1,11 +1,11 @@
-# Whisper Transcriber
+# Whisper Queue
 
 ## Description
 
-Whisper Transcriber is a program designed to simplify the process of transcribing audio and video files using the Whisper transcription model, owned by OpenAI.
+Whisper Queue is a program designed to simplify the process of transcribing audio and video files using the Whisper transcription model, owned by OpenAI.
 The added value of this program lies in the fact that it creates a workflow whereby, if the user has to transcribe several audio and video files, even those with extensions not supported by the Whisper model, the program will automatically start each transcription, one after the other, using computing resources and time more efficiently, and will attempt to convert files not originally supported by Whisper, into a format supported by the model.
 The program was born from my need to transcribe long university lectures in a specific order to be able to prepare for an exam in time. It often happened that, after starting a transcription, it would end in the middle of the night, so the computer would remain switched on without performing any useful tasks until the next morning, when I would start a new transcription. To avoid this waste of electricity and inefficient use of computational resources, I wrote this little program that I decided to make public in case anyone else was in the same situation as me.
-So, Whisper Transcriber is particularly useful for those who have to transcribe large amounts of files in different formats.
+So, Whisper Queue is particularly useful for those who have to transcribe large amounts of files in different formats.
 
 
 ## Requirements
