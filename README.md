@@ -10,7 +10,7 @@ So, Whisper Queue is particularly useful for those who have to transcribe large 
 
 ## Requirements
 
-To run Whisper Transcriber, you need the following Python packages installed:
+To run Whisper Queue, you need the following Python packages installed:
 
 - [moviepy](https://zulko.github.io/moviepy/) - distributed under the MIT licence.
 - [whisper](https://github.com/openai/whisper) - distributed under the MIT licence.
