@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A powerful tool for transcribing audio and video files in multiple formats. Automatically converts unsupported formats for compatibility with Whisper.
+A tool for transcribing audio and video files in multiple formats. Automatically converts unsupported formats for compatibility with Whisper.
 
 ## Description
 
